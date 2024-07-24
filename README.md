@@ -1,0 +1,1 @@
+# hackintosh-Sonoma-on-MSI-GF63-THIN-10SC
