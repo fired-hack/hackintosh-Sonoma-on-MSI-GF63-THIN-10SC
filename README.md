@@ -1,6 +1,6 @@
 # hackintosh-Sonoma-on-MSI-GF63-THIN-10SC
 
-MSI GF63 10SC OpenCore 1.0 Sonoma 14.5
+MSI GF63 10SC OpenCore 1.0.0 Sonoma 14.5
 
 Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 
